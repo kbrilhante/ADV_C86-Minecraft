@@ -35,5 +35,6 @@ function newImage(getImage) {
     });
 }
 
+// Apagar na próxima aula
 playerUpdate();
-newImage("bricks.jpg")
+newImage("dirt.jpg");
