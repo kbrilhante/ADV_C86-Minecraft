@@ -1,13 +1,13 @@
 const canvas = new fabric.Canvas('myCanvas');
 
+const playerWidth = 150;
+const playerHeight = 140;
+
 var blockImageWidth = 30;
 var blockImageHeight = 30;
 
 var playerX = 10;
 var playerY = 10;
-
-const playerWidth = 150;
-const playerHeight = 140;
 
 var playerObject = "";
 var blockImageObject = "";
